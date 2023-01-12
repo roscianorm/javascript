@@ -1,9 +1,9 @@
 ;(function () {
-	console.log('Code runs!')
+  console.log('Code runs!')
 })()
 
 // or
 
 !function () {
-	console.log('Code runs!')
+  console.log('Code runs!')
 }()

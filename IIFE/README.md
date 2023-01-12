@@ -3,9 +3,9 @@
 An [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE) is a [JavaScript](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript) [function](https://developer.mozilla.org/en-US/docs/Glossary/Function) that runs as soon as it is defined.
 
 ```
-	(function () {
-			statements
-	})();
+  (function () {
+      statements
+  })();
 ```
 
 It is a design pattern which is also known as a [Self-Executing Anonymous Function](https://developer.mozilla.org/en-US/docs/Glossary/Self-Executing_Anonymous_Function) and contains two major parts:

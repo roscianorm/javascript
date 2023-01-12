@@ -13,7 +13,8 @@ body {
 
 /* Typography */
 
-h1, h2 {
+h1,
+h2 {
   font-family: 'Cherry Swash', cursive;
   margin: 0;
   text-align: center;
@@ -21,7 +22,8 @@ h1, h2 {
 
 h1 {
   font-size: 5rem;
-  background: url(icons/bean_can.png) no-repeat 20% center, url(icons/bean_can.png) no-repeat 80% center;
+  background: url(icons/bean_can.png) no-repeat 20% center,
+    url(icons/bean_can.png) no-repeat 80% center;
   background-size: 48px 48px;
 }
 
@@ -38,9 +40,12 @@ h2 {
   padding-top: 0.3rem;
 }
 
-
-
-p, label, input, select, button, li {
+p,
+label,
+input,
+select,
+button,
+li {
   font-size: 1.5rem;
 }
 
@@ -50,7 +55,10 @@ li {
 
 /* block styling */
 
-header, aside, main, footer {
+header,
+aside,
+main,
+footer {
   padding: 20px;
 }
 
@@ -93,7 +101,9 @@ aside div {
   margin-bottom: 20px;
 }
 
-label, select, input {
+label,
+select,
+input {
   display: block;
 }
 
@@ -101,7 +111,9 @@ label {
   margin-bottom: 5px;
 }
 
-select, input, button {
+select,
+input,
+button {
   width: 100%;
 }
 
